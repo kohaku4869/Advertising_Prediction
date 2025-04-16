@@ -1,1 +1,1 @@
-# Advertising_Prediction
+# Medical_Insurance_Price_Prediction
